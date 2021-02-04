@@ -18,6 +18,7 @@ h1>Bem vindo turma 14A do itaú pele treinamento da Gama </h1>
     R$ 850,00
     <br>
     <a href ="" target="_blank" style="display:block;background:green;color:white;text-align:center;padding:20px;border-radius:10px">comprar agora </a>
+    <br>
     <a href ="" target="_blank" style="color:white">Enrar em contato com o vendedor</a>
 
 </div>
@@ -27,7 +28,9 @@ h1>Bem vindo turma 14A do itaú pele treinamento da Gama </h1>
     <img src="b1.jpg" style="width:200px">
     <br>
     R$ 550,00
+    <br>
     <a href ="" target="_blank" style="display:block;background:green;color:white;text-align:center;padding:20px;border-radius:10px">comprar agora </a>
+    <br>
     <a href ="" target="_blank" style="color:white">Enrar em contato com o vendedor</a>
 
 </div>
