@@ -11,10 +11,10 @@ h1>Bem vindo turma 14A do itaú pele treinamento da Gama </h1>
 <h7>QUERO DELETAR TUDO </h7>
 
 <div style = "display:flex">
-<div style = "width:200px;height:200px;background:yellow;padding:50px;margin:5px">
+<div style = "width:200px;height:200px;background:yellow;padding:50px;margin:10px">
     Um teste em um quadrado teste
 </div>
-<div style = "width:200px;height:200px;background:blue;padding:50p;margin:5px">
+<div style = "width:200px;height:200px;background:blue;padding:50px;margin:10px">
     Um teste em um quadrado teste
 </div>
 
